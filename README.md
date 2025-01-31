@@ -14,7 +14,10 @@ The project is a job application backend built with Spring Boot using a microser
 - Containerization: Services run in Docker containers, orchestrated with a docker-compose.yaml.
 
 
+
 ## System Architecture
 
-![Job App](https://github.com/user-attachments/assets/e7fed858-e1f3-402c-959a-c455eefd3b44)
+![Post 2](https://github.com/user-attachments/assets/cfeaeee4-2e3e-4588-bab8-bbe6d0d4fd94)
+![Post](https://github.com/user-attachments/assets/20ff87c4-e537-49ee-abf0-582def0afb46)
+![Post 3](https://github.com/user-attachments/assets/71bef6ba-90c6-46ab-b6aa-ec055ab61524)
 
